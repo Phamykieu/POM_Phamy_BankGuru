@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	<!-- Suite -->
+	<test name="Test">
+		<parameter name="browser" value="chrome" />
+		<parameter name="version" value="79.0.3945.36" />
+		<parameter name="url" value="http://demo.guru99.com/v4/" />
+		<classes>
+			<class name="com.bankguru.LogInScript" />
+		</classes>
+	</test>
+</suite>

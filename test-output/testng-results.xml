@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="46" passed="46">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88840" started-at="2020-01-15T10:34:43 ICT" finished-at="2020-01-15T10:36:11 ICT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88840" started-at="2020-01-15T10:34:43 ICT" finished-at="2020-01-15T10:36:11 ICT">
+      <class name="com.bankguru.LogInScript">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="beforeClass" is-config="true" duration-ms="13066" started-at="2020-01-15T10:34:43 ICT" finished-at="2020-01-15T10:34:56 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[79.0.3945.36]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://demo.guru99.com/v4/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="NC_00_Login(java.lang.String)[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_00_Login" duration-ms="6342" started-at="2020-01-15T10:34:56 ICT" finished-at="2020-01-15T10:35:02 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demo.guru99.com/v4/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_00_Login -->
+        <test-method status="PASS" signature="NC_01()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_01" duration-ms="1401" started-at="2020-01-15T10:35:02 ICT" finished-at="2020-01-15T10:35:03 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_01 -->
+        <test-method status="PASS" signature="NC_02()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_02" duration-ms="623" started-at="2020-01-15T10:35:03 ICT" finished-at="2020-01-15T10:35:04 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_02 -->
+        <test-method status="PASS" signature="NC_03()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_03" duration-ms="1298" started-at="2020-01-15T10:35:04 ICT" finished-at="2020-01-15T10:35:05 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_03 -->
+        <test-method status="PASS" signature="NC_04()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_04" duration-ms="593" started-at="2020-01-15T10:35:05 ICT" finished-at="2020-01-15T10:35:06 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_04 -->
+        <test-method status="PASS" signature="NC_06()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_06" duration-ms="1043" started-at="2020-01-15T10:35:06 ICT" finished-at="2020-01-15T10:35:07 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_06 -->
+        <test-method status="PASS" signature="NC_08()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_08" duration-ms="921" started-at="2020-01-15T10:35:07 ICT" finished-at="2020-01-15T10:35:08 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_08 -->
+        <test-method status="PASS" signature="NC_09()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_09" duration-ms="1022" started-at="2020-01-15T10:35:08 ICT" finished-at="2020-01-15T10:35:09 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_09 -->
+        <test-method status="PASS" signature="NC_10()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_10" duration-ms="1264" started-at="2020-01-15T10:35:09 ICT" finished-at="2020-01-15T10:35:10 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_10 -->
+        <test-method status="PASS" signature="NC_11()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_11" duration-ms="532" started-at="2020-01-15T10:35:10 ICT" finished-at="2020-01-15T10:35:11 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_11 -->
+        <test-method status="PASS" signature="NC_12()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_12" duration-ms="1015" started-at="2020-01-15T10:35:11 ICT" finished-at="2020-01-15T10:35:12 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_12 -->
+        <test-method status="PASS" signature="NC_13()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_13" duration-ms="1221" started-at="2020-01-15T10:35:12 ICT" finished-at="2020-01-15T10:35:13 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_13 -->
+        <test-method status="PASS" signature="NC_14()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_14" duration-ms="595" started-at="2020-01-15T10:35:13 ICT" finished-at="2020-01-15T10:35:14 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_14 -->
+        <test-method status="PASS" signature="NC_15()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_15" duration-ms="1029" started-at="2020-01-15T10:35:14 ICT" finished-at="2020-01-15T10:35:15 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_15 -->
+        <test-method status="PASS" signature="NC_16()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_16" duration-ms="536" started-at="2020-01-15T10:35:15 ICT" finished-at="2020-01-15T10:35:15 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_16 -->
+        <test-method status="PASS" signature="NC_17()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_17" duration-ms="1248" started-at="2020-01-15T10:35:15 ICT" finished-at="2020-01-15T10:35:16 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_17 -->
+        <test-method status="PASS" signature="NC_18()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_18" duration-ms="526" started-at="2020-01-15T10:35:16 ICT" finished-at="2020-01-15T10:35:17 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_18 -->
+        <test-method status="PASS" signature="NC_19()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_19" duration-ms="1018" started-at="2020-01-15T10:35:17 ICT" finished-at="2020-01-15T10:35:18 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_19 -->
+        <test-method status="PASS" signature="NC_20()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_20" duration-ms="1004" started-at="2020-01-15T10:35:18 ICT" finished-at="2020-01-15T10:35:19 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_20 -->
+        <test-method status="PASS" signature="NC_21()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_21" duration-ms="567" started-at="2020-01-15T10:35:19 ICT" finished-at="2020-01-15T10:35:19 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_21 -->
+        <test-method status="PASS" signature="NC_22()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_22" duration-ms="589" started-at="2020-01-15T10:35:19 ICT" finished-at="2020-01-15T10:35:20 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_22 -->
+        <test-method status="PASS" signature="NC_23()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_23" duration-ms="1208" started-at="2020-01-15T10:35:20 ICT" finished-at="2020-01-15T10:35:21 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_23 -->
+        <test-method status="PASS" signature="NC_26()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_26" duration-ms="489" started-at="2020-01-15T10:35:21 ICT" finished-at="2020-01-15T10:35:22 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_26 -->
+        <test-method status="PASS" signature="NC_27()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_27" duration-ms="1244" started-at="2020-01-15T10:35:22 ICT" finished-at="2020-01-15T10:35:23 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_27 -->
+        <test-method status="PASS" signature="NC_29()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_29" duration-ms="609" started-at="2020-01-15T10:35:23 ICT" finished-at="2020-01-15T10:35:24 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_29 -->
+        <test-method status="PASS" signature="NC_30()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NC_30" duration-ms="3052" started-at="2020-01-15T10:35:24 ICT" finished-at="2020-01-15T10:35:27 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NC_30 -->
+        <test-method status="PASS" signature="NEC_01()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_01" duration-ms="1743" started-at="2020-01-15T10:35:27 ICT" finished-at="2020-01-15T10:35:28 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_01 -->
+        <test-method status="PASS" signature="NEC_010()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_010" duration-ms="2376" started-at="2020-01-15T10:35:28 ICT" finished-at="2020-01-15T10:35:31 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_010 -->
+        <test-method status="PASS" signature="NEC_011()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_011" duration-ms="2746" started-at="2020-01-15T10:35:31 ICT" finished-at="2020-01-15T10:35:34 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_011 -->
+        <test-method status="PASS" signature="NEC_012()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_012" duration-ms="2054" started-at="2020-01-15T10:35:34 ICT" finished-at="2020-01-15T10:35:36 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_012 -->
+        <test-method status="PASS" signature="NEC_013()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_013" duration-ms="2387" started-at="2020-01-15T10:35:36 ICT" finished-at="2020-01-15T10:35:38 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_013 -->
+        <test-method status="PASS" signature="NEC_014()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_014" duration-ms="2379" started-at="2020-01-15T10:35:38 ICT" finished-at="2020-01-15T10:35:40 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_014 -->
+        <test-method status="PASS" signature="NEC_015()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_015" duration-ms="2149" started-at="2020-01-15T10:35:40 ICT" finished-at="2020-01-15T10:35:43 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_015 -->
+        <test-method status="PASS" signature="NEC_016()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_016" duration-ms="2852" started-at="2020-01-15T10:35:43 ICT" finished-at="2020-01-15T10:35:45 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_016 -->
+        <test-method status="PASS" signature="NEC_017()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_017" duration-ms="1817" started-at="2020-01-15T10:35:45 ICT" finished-at="2020-01-15T10:35:47 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_017 -->
+        <test-method status="PASS" signature="NEC_018()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_018" duration-ms="2892" started-at="2020-01-15T10:35:47 ICT" finished-at="2020-01-15T10:35:50 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_018 -->
+        <test-method status="PASS" signature="NEC_019()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_019" duration-ms="1883" started-at="2020-01-15T10:35:50 ICT" finished-at="2020-01-15T10:35:52 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_019 -->
+        <test-method status="PASS" signature="NEC_02()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_02" duration-ms="1205" started-at="2020-01-15T10:35:52 ICT" finished-at="2020-01-15T10:35:53 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_02 -->
+        <test-method status="PASS" signature="NEC_020()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_020" duration-ms="2721" started-at="2020-01-15T10:35:53 ICT" finished-at="2020-01-15T10:35:56 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_020 -->
+        <test-method status="PASS" signature="NEC_021()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_021" duration-ms="3192" started-at="2020-01-15T10:35:56 ICT" finished-at="2020-01-15T10:35:59 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_021 -->
+        <test-method status="PASS" signature="NEC_022()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_022" duration-ms="2137" started-at="2020-01-15T10:35:59 ICT" finished-at="2020-01-15T10:36:01 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_022 -->
+        <test-method status="PASS" signature="NEC_023()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_023" duration-ms="2185" started-at="2020-01-15T10:36:01 ICT" finished-at="2020-01-15T10:36:03 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_023 -->
+        <test-method status="PASS" signature="NEC_03()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_03" duration-ms="784" started-at="2020-01-15T10:36:03 ICT" finished-at="2020-01-15T10:36:04 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_03 -->
+        <test-method status="PASS" signature="NEC_04()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_04" duration-ms="1161" started-at="2020-01-15T10:36:04 ICT" finished-at="2020-01-15T10:36:05 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_04 -->
+        <test-method status="PASS" signature="NEC_08()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_08" duration-ms="2455" started-at="2020-01-15T10:36:05 ICT" finished-at="2020-01-15T10:36:08 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_08 -->
+        <test-method status="PASS" signature="NEC_09()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="NEC_09" duration-ms="2406" started-at="2020-01-15T10:36:08 ICT" finished-at="2020-01-15T10:36:10 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEC_09 -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:com.bankguru.LogInScript@5e853265]" name="AfterClass" is-config="true" duration-ms="1192" started-at="2020-01-15T10:36:10 ICT" finished-at="2020-01-15T10:36:11 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- com.bankguru.LogInScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

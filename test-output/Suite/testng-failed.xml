@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="version" value="79.0.3945.36"/>
+    <parameter name="url" value="http://demo.guru99.com/v4/"/>
+    <classes>
+      <class name="com.bankguru.LogInScript">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="NEC_023"/>
+          <include name="NEC_022"/>
+          <include name="NEC_021"/>
+          <include name="NEC_020"/>
+          <include name="NC_16"/>
+          <include name="NC_17"/>
+          <include name="NC_18"/>
+          <include name="NC_19"/>
+          <include name="NC_12"/>
+          <include name="NC_13"/>
+          <include name="NEC_019"/>
+          <include name="NC_14"/>
+          <include name="NEC_018"/>
+          <include name="NC_15"/>
+          <include name="NEC_017"/>
+          <include name="NC_30"/>
+          <include name="NEC_016"/>
+          <include name="NEC_015"/>
+          <include name="NC_10"/>
+          <include name="NEC_014"/>
+          <include name="NC_11"/>
+          <include name="NEC_013"/>
+          <include name="NEC_01"/>
+          <include name="NEC_03"/>
+          <include name="NEC_02"/>
+          <include name="NC_09"/>
+          <include name="NEC_012"/>
+          <include name="NEC_011"/>
+          <include name="NEC_04"/>
+          <include name="NEC_010"/>
+          <include name="NC_27"/>
+          <include name="NEC_09"/>
+          <include name="NC_00_Login" invocation-numbers="0"/>
+          <include name="NC_06"/>
+          <include name="NEC_08"/>
+          <include name="NC_29"/>
+          <include name="NC_08"/>
+          <include name="NC_01"/>
+          <include name="NC_23"/>
+          <include name="NC_02"/>
+          <include name="NC_03"/>
+          <include name="NC_04"/>
+          <include name="NC_26"/>
+          <include name="NC_20"/>
+          <include name="NC_21"/>
+          <include name="NC_22"/>
+          <include name="AfterClass"/>
+        </methods>
+      </class> <!-- com.bankguru.LogInScript -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
